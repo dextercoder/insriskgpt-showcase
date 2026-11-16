@@ -2,7 +2,7 @@
 
 > 版本：v1.0 
 
-https://dextercoder.github.io/InsRiskGPT-showcase/insriskgpt-showcase.html
+https://dextercoder.github.io/insriskgpt-showcase/insriskgpt-showcase.html
 
 ## 1. 这份文档回答什么
 
