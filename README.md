@@ -1,6 +1,8 @@
 # InsRiskGPT 系统架构（展示版）
 
-> 版本：v1.0  
+> 版本：v1.0 
+
+https://dextercoder.github.io/InsRiskGPT-showcase/insriskgpt-showcase.html
 
 ## 1. 这份文档回答什么
 
